@@ -131,7 +131,7 @@ public class HeapExpt {
 
     public static void main(String[] args) {
         PrintWriter pen = new PrintWriter(System.out, true);
-        expt2(pen);
+        expt1(pen);
         pen.close();
     } // main(String[])
 
